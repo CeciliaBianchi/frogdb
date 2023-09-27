@@ -1,0 +1,185 @@
+[{
+  "_id": {
+    "$oid": "651424a977fdaa4abb5f63f5"
+  },
+  "name": "Yellow-Banded Poison Dart Frog",
+  "scientificName": "Dendrobates leucomelas",
+  "color": {
+    "firstColor": "Yellow",
+    "secondColor": "Black"
+  },
+  "diet": [
+    "ants",
+    "termites",
+    "crickets",
+    "small beetles",
+    "spiders"
+  ],
+  "habitat": "South America",
+  "image": "https://outforia.com/wp-content/uploads/2022/03/types-of-frogs-yellow-banded-poison-dart-frog.webp"
+},
+{
+  "_id": {
+    "$oid": "651424ae77fdaa4abb5f63f6"
+  },
+  "name": "Madagascar Tomato Frog",
+  "scientificName": "Dyscophus antongilii",
+  "color": {
+    "firstColor": "Red",
+    "secondColor": "Orange"
+  },
+  "diet": [
+    "insects",
+    "small invertebrates",
+    "arthropods"
+  ],
+  "habitat": "Africa",
+  "image": "https://outforia.com/wp-content/uploads/2022/03/types-of-frogs-madagascar-tomato-frog.webp"
+},
+{
+  "_id": {
+    "$oid": "651424b277fdaa4abb5f63f7"
+  },
+  "name": "American Bullfrog",
+  "scientificName": "Lithobates catesbeianus",
+  "color": {
+    "firstColor": "Brown",
+    "secondColor": "Green"
+  },
+  "diet": [
+    "insects",
+    "worms",
+    "crayfish",
+    "smaller frogs",
+    "small turtles",
+    "small mammals"
+  ],
+  "habitat": "North America",
+  "image": "https://outforia.com/wp-content/uploads/2022/03/types-of-frogs-american-bullfrog.webp"
+},
+{
+  "_id": {
+    "$oid": "651424b877fdaa4abb5f63f8"
+  },
+  "name": "Wood Frog",
+  "scientificName": "Lithobates sylvaticus",
+  "color": {
+    "firstColor": "Reddish-Brown",
+    "secondColor": "Gray"
+  },
+  "diet": [
+    "insects",
+    "snails",
+    "slugs",
+    "spiders"
+  ],
+  "habitat": "North America",
+  "image": "https://outforia.com/wp-content/uploads/2022/03/types-of-frogs-wood-frog.webp"
+},
+{
+  "_id": {
+    "$oid": "651424be77fdaa4abb5f63f9"
+  },
+  "name": "Spotted Tree Frog",
+  "scientificName": "Nyctixalus pictus",
+  "color": {
+    "firstColor": "Brown",
+    "secondColor": "White"
+  },
+  "diet": [
+    "flying insects"
+  ],
+  "habitat": "Asia",
+  "image": "https://outforia.com/wp-content/uploads/2022/03/types-of-frogs-spotted-tree-frog.webp"
+},
+{
+  "_id": {
+    "$oid": "651424c277fdaa4abb5f63fa"
+  },
+  "name": "Common Frog",
+  "scientificName": "Rana temporaria",
+  "color": {
+    "firstColor": "Light Brown",
+    "secondColor": "Green"
+  },
+  "diet": [
+    "snails",
+    "slugs",
+    "worms",
+    "insects"
+  ],
+  "habitat": "Europe",
+  "image": "https://outforia.com/wp-content/uploads/2022/03/types-of-frogs-common-frog.webp"
+},
+{
+  "_id": {
+    "$oid": "651424c777fdaa4abb5f63fb"
+  },
+  "name": "Blessed Poison Frog",
+  "scientificName": "Ranitomeya benedicta",
+  "color": {
+    "firstColor": "Red",
+    "secondColor": "Blue"
+  },
+  "diet": [
+    "ants",
+    "fruit flies"
+  ],
+  "habitat": "South America",
+  "image": "https://outforia.com/wp-content/uploads/2022/03/types-of-frogs-blessed-poison-frog.webp"
+},
+{
+  "_id": {
+    "$oid": "651424cc77fdaa4abb5f63fc"
+  },
+  "name": "Red-Backed Poison Frog",
+  "scientificName": "Ranitomeya reticulata",
+  "color": {
+    "firstColor": "Red",
+    "secondColor": "Black"
+  },
+  "diet": [
+    "ants",
+    "fruit flies",
+    "termites",
+    "small crickets",
+    "tiny beetles"
+  ],
+  "habitat": "South America",
+  "image": "https://outforia.com/wp-content/uploads/2022/03/types-of-frogs-red-backed-poison-frog.webp"
+},
+{
+  "_id": {
+    "$oid": "651424d177fdaa4abb5f63fd"
+  },
+  "name": "Vietnamese Mossy Frog",
+  "scientificName": "Theloderma corticale",
+  "color": {
+    "firstColor": "Green",
+    "secondColor": "Black"
+  },
+  "diet": [
+    "insects",
+    "aquatic bugs"
+  ],
+  "habitat": "Asia",
+  "image": "https://outforia.com/wp-content/uploads/2022/03/types-of-frogs-Vietnamese-Mossy-Frog.webp"
+},
+{
+  "_id": {
+    "$oid": "651424d677fdaa4abb5f63fe"
+  },
+  "name": "Shovel-Headed Tree Frog",
+  "scientificName": "Triprion spatulatus",
+  "color": {
+    "firstColor": "gray",
+    "secondColor": "green"
+  },
+  "diet": [
+    "spiders",
+    "grasshoppers",
+    "crickets"
+  ],
+  "habitat": "South America",
+  "image": "https://outforia.com/wp-content/uploads/2022/03/types-of-frogs-shovel-headed-tree-frog.webp"
+}]

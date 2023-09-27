@@ -1,0 +1,218 @@
+{
+    "modelName": "New Model",
+    "collections": [
+        {
+            "collectionName": "Frog",
+            "type": "object",
+            "properties": [
+                {
+                    "name": "FrogID",
+                    "hackoladeMeta": {},
+                    "isActivated": true,
+                    "type": "objectId",
+                    "GUID": "31e09114-eb5c-4960-ab28-2d29976f4a77",
+                    "error": {}
+                },
+                {
+                    "name": "Name",
+                    "hackoladeMeta": {},
+                    "isActivated": true,
+                    "type": "string",
+                    "GUID": "7dac6df4-f068-4b4b-b0aa-f205713cd6e8",
+                    "error": {}
+                },
+                {
+                    "name": "Scientific Name",
+                    "hackoladeMeta": {},
+                    "isActivated": true,
+                    "type": "string",
+                    "GUID": "c02f120a-4656-4f32-a83d-797d4614290d",
+                    "error": {}
+                },
+                {
+                    "name": "Color",
+                    "hackoladeMeta": {},
+                    "isActivated": true,
+                    "type": "document",
+                    "properties": [
+                        {
+                            "name": "firstColor",
+                            "hackoladeMeta": {},
+                            "isActivated": true,
+                            "type": "string",
+                            "GUID": "06bb4164-5767-43a3-b69f-81ff7f42d038",
+                            "error": {}
+                        },
+                        {
+                            "name": "secondColor",
+                            "hackoladeMeta": {},
+                            "isActivated": true,
+                            "type": "string",
+                            "GUID": "ae184b6b-981a-4fce-96f4-5e46fcf2ed34",
+                            "error": {}
+                        }
+                    ],
+                    "additionalProperties": false,
+                    "GUID": "6cfbd2a0-a0a2-44a4-bb51-a80a0b54363c",
+                    "error": {}
+                },
+                {
+                    "name": "Diet",
+                    "hackoladeMeta": {},
+                    "isActivated": true,
+                    "type": "array",
+                    "properties": [
+                        {
+                            "hackoladeMeta": {},
+                            "isActivated": true,
+                            "type": "string",
+                            "GUID": "01e6bd44-1f14-4cee-84e4-94d37a7ee080",
+                            "arrayItem": true
+                        }
+                    ],
+                    "additionalItems": true,
+                    "GUID": "d9e1f743-ae3d-4254-bd5f-4ebd80aa0a2a",
+                    "error": {}
+                },
+                {
+                    "name": "Habitat",
+                    "hackoladeMeta": {},
+                    "isActivated": true,
+                    "type": "string",
+                    "GUID": "b7c64678-689d-450c-af44-fd980d200e2b",
+                    "error": {}
+                },
+                {
+                    "name": "Image(URL)",
+                    "hackoladeMeta": {},
+                    "isActivated": true,
+                    "type": "string",
+                    "GUID": "9481bc2c-7639-484e-a022-8e23d3758be2",
+                    "error": {}
+                }
+            ],
+            "definitions": {
+                "type": "definitions",
+                "properties": [],
+                "GUID": "a422b44c-57fd-4dd2-860d-df9157ee8f8b"
+            },
+            "isActivated": true,
+            "additionalProperties": false,
+            "validationLevel": "Off",
+            "validationAction": "Warn",
+            "storageEngineName": "WiredTiger",
+            "collectionUsers": [],
+            "indexes": [],
+            "collation": {},
+            "sharding": {
+                "unique": true,
+                "collation": "null"
+            },
+            "GUID": "6f43fa78-2641-4b5b-883e-7691c29e9430"
+        }
+    ],
+    "buckets": [],
+    "views": [],
+    "relationships": [],
+    "users": [],
+    "diagramViews": [],
+    "idToNameHashTable": {
+        "6f43fa78-2641-4b5b-883e-7691c29e9430": "Frog",
+        "31e09114-eb5c-4960-ab28-2d29976f4a77": "FrogID",
+        "7dac6df4-f068-4b4b-b0aa-f205713cd6e8": "Name",
+        "c02f120a-4656-4f32-a83d-797d4614290d": "Scientific Name",
+        "6cfbd2a0-a0a2-44a4-bb51-a80a0b54363c": "Color",
+        "06bb4164-5767-43a3-b69f-81ff7f42d038": "firstColor",
+        "ae184b6b-981a-4fce-96f4-5e46fcf2ed34": "secondColor",
+        "d9e1f743-ae3d-4254-bd5f-4ebd80aa0a2a": "Diet",
+        "b7c64678-689d-450c-af44-fd980d200e2b": "Habitat",
+        "9481bc2c-7639-484e-a022-8e23d3758be2": "Image(URL)"
+    },
+    "definitions": {
+        "type": "definitions",
+        "properties": [],
+        "GUID": "1d561f12-d18c-4e6b-9666-3f12186dbbde"
+    },
+    "polyglotDefinitions": {
+        "type": "polyglotDefinitions",
+        "properties": [],
+        "GUID": "ee804137-4253-4830-93b4-d0d29c85d6a8"
+    },
+    "externalDefinitions": {
+        "type": "externalDefinitions",
+        "properties": [],
+        "GUID": "fa3ba6bc-5dbe-40d9-b6a4-33623020d327"
+    },
+    "sources": [],
+    "decorativeSymbols": [],
+    "dbVersion": "v7.x",
+    "dbVendor": "MongoDB",
+    "appTarget": "MONGODB",
+    "creationTS": "2023-09-27T11:53:34.438Z",
+    "GUID": "f70b0ff8-261f-4d99-bf17-7c595fd4e539",
+    "isLineageEnabled": false,
+    "lastModifTS": "2023-09-27T11:59:22.427Z",
+    "persistenceSchemaVersion": "6",
+    "isCreatedByPlugin": true,
+    "pluginInformation": {
+        "pluginEngineVersion": "1.0.0"
+    },
+    "applicationInformation": {
+        "version": "6.11.1"
+    },
+    "settings": {
+        "centralPane": {
+            "dbLevel": {
+                "erd": [
+                    {
+                        "GUID": "6f43fa78-2641-4b5b-883e-7691c29e9430",
+                        "x": 1018,
+                        "y": 924,
+                        "width": 361,
+                        "height": 268,
+                        "color": {}
+                    }
+                ],
+                "erdDefinitions": {
+                    "erd": [],
+                    "rootPath": [],
+                    "entities": [],
+                    "decorativeSymbols": []
+                },
+                "buckets": [],
+                "collapsedNodes": [],
+                "activeRelationship": "",
+                "activeRelationshipFields": {
+                    "childField": [],
+                    "parentField": []
+                },
+                "selectedCollections": [],
+                "displayColorPicker": false,
+                "graphView": {
+                    "erd": [],
+                    "buckets": [],
+                    "decorativeSymbols": [],
+                    "forceLayout": true,
+                    "defaultLinkLength": 300
+                },
+                "diagramViews": [],
+                "decorativeSymbols": [],
+                "nestedCollectionsLayout": "horizontal",
+                "options": [
+                    {
+                        "autoWidth": false,
+                        "autoHeight": false,
+                        "GUID": "6f43fa78-2641-4b5b-883e-7691c29e9430"
+                    }
+                ],
+                "relationshipUpdateDisabled": false
+            },
+            "collectionLevel": {},
+            "changed": false
+        },
+        "dtDiagram": {
+            "collapsedNodes": [],
+            "shouldDistributeCollections": false
+        }
+    }
+}
